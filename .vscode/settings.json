@@ -1,0 +1,7 @@
+{
+  "editor.quickSuggestions": true,
+  "editor.quickSuggestionsDelay": 3000,
+  "editor.parameterHints.enabled": false,
+  "editor.suggestOnTriggerCharacters": false,
+  "workbench.settings.editor": "json"
+}
